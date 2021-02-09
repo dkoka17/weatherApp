@@ -1,0 +1,35 @@
+PODS:
+  - HSCycleGalleryView (1.1.2)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - HSCycleGalleryView (from `https://github.com/usmanmukhtar/HSCycleGalleryView.git`, commit `d63c147b16d71c60b17107f699ece2835c9e0f14`)
+  - SDWebImage (~> 5.0)
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - UPCarouselFlowLayout
+
+EXTERNAL SOURCES:
+  HSCycleGalleryView:
+    :commit: d63c147b16d71c60b17107f699ece2835c9e0f14
+    :git: https://github.com/usmanmukhtar/HSCycleGalleryView.git
+
+CHECKOUT OPTIONS:
+  HSCycleGalleryView:
+    :commit: d63c147b16d71c60b17107f699ece2835c9e0f14
+    :git: https://github.com/usmanmukhtar/HSCycleGalleryView.git
+
+SPEC CHECKSUMS:
+  HSCycleGalleryView: 791af0073b6f27adcefdf57f90cf6fc633bc2ae3
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: 7ba2cc4c866ae0d5e90dc400201063b4adf1b03b
+
+COCOAPODS: 1.10.1
